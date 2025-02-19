@@ -135,3 +135,9 @@ To test the programs, create input files manually and use the Makefile rules. He
 | Offer         | Dynamic programming       | O(n) |
 
 Each solution leverages a tailored algorithmic strategy to optimise performance.
+
+---
+
+#### 📜 License
+This project is licensed under the MIT License. See the [LICENCE](./LICENSE) file for further details.
+
