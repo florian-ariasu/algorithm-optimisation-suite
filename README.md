@@ -1,16 +1,16 @@
-## Efficient Algorithms: Searching, DP & Optimization 🚀
+## Efficient Algorithms: Searching, DP & Optimisation 🚀
 
 This repository contains solutions to five algorithmic problems, each requiring a unique approach, from dynamic programming to binary search. Below is a brief overview of each solution.
 
 ---
 
-### 🔋 Server Power Optimization
+### 🔋 Server Power Optimisation
 
 ### Approach
 - **Binary search** on the possible power limit.
 - Initialize `left = 0`, `right = max power supply (ci)`.
 - Adjust `mid` based on computed power values.
-- **Stopping condition:** `min1 == min2`, meaning we've maximized the power supply.
+- **Stopping condition:** `min1 == min2`, meaning we've maximised the power supply.
 
 #### Complexity
 **O(log n)** – binary search ensures efficient convergence.
@@ -45,7 +45,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🔑 Encryption Optimization
+### 🔑 Encryption Optimisation
 
 #### Approach
 1. **Calculate letter frequency per word** 📊.
@@ -53,7 +53,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
    - Descending frequency.
    - Frequency-to-length ratio.
    - Longer words preferred for ties.
-3. **Select words greedily** to maximize encryption efficiency.
+3. **Select words greedily** to maximise encryption efficiency.
 4. **Repeat for each letter (`a-z`)** and track the maximum encrypted length.
 
 #### Complexity
@@ -134,4 +134,4 @@ To test the programs, create input files manually and use the Makefile rules. He
 | Encryption    | Sorting + Greedy Selection | O(N²) |
 | Offer         | Dynamic programming       | O(n) |
 
-Each solution leverages a tailored algorithmic strategy to optimize performance.
+Each solution leverages a tailored algorithmic strategy to optimise performance.
