@@ -1,4 +1,4 @@
-## Efficient Algorithms: Searching, DP & Optimisation 🚀
+## Efficient Algorithms: Searching, DP & Optimisation
 
 This repository contains solutions to five algorithmic problems, each requiring a unique approach, from dynamic programming to binary search. Below is a brief overview of each solution.
 
