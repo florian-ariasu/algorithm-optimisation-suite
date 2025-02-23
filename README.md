@@ -48,7 +48,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 ### Encryption Optimisation
 
 #### Approach
-1. **Calculate letter frequency per word** 📊.
+1. **Calculate letter frequency per word**.
 2. **Sort words** based on:
    - Descending frequency.
    - Frequency-to-length ratio.
