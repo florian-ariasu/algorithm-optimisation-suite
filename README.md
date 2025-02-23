@@ -4,7 +4,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🔋 Server Power Optimisation
+### Server Power Optimisation
 
 ### Approach
 - **Binary search** on the possible power limit.
@@ -17,7 +17,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🎨 Coloring
+### Coloring
 
 #### Approach
 - Utilizes **modular exponentiation** (`fastPow`) for efficiency.
@@ -30,7 +30,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🗜 Compression
+### Compression
 
 #### Approach
 - Read two sequences and use **two indices** to traverse them simultaneously.
@@ -45,7 +45,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🔑 Encryption Optimisation
+### Encryption Optimisation
 
 #### Approach
 1. **Calculate letter frequency per word** 📊.
@@ -61,7 +61,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🛒 Optimal Offer (Dynamic Programming)
+### Optimal Offer (Dynamic Programming)
 
 #### Approach
 - Uses **dynamic programming** (`dp[i]`) to track the minimum price at step `i`.
@@ -76,7 +76,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 ---
 
-### 🧪 Testing
+### Testing
 
 #### Sample Inputs and Expected Outputs
 To test the programs, create input files manually and use the Makefile rules. Here are sample test cases for each problem:
@@ -124,7 +124,7 @@ To test the programs, create input files manually and use the Makefile rules. He
 
 ---
 
-### 📌 Summary
+### Summary
 
 | Problem        | Approach                  | Complexity |
 |---------------|--------------------------|------------|
@@ -138,5 +138,6 @@ Each solution leverages a tailored algorithmic strategy to optimise performance.
 
 ---
 
-### 📜 Licence
+### Licence
+
 This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
