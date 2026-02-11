@@ -4,7 +4,7 @@ This repository contains solutions to five algorithmic problems, each requiring 
 
 > [!IMPORTANT]
 > This is the first project homework for Algorithms Design class (2nd year, 2nd sem)
-- It was done by me with AI guidance and peer support throughout the process
+- It was done with AI guidance and peer support throughout the process
 - The code was written by me, except for the **encryption problem**
 - For the **encryption problem** I have looked it up on my colleagues GitHub profiles to see their implementation
 - The **encryption problem** was done after submitting the implementation for the deadline, without it being part of the project at that time
