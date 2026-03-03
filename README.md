@@ -6,8 +6,6 @@ A collection of five algorithmic solutions, each applying a distinct strategy â€
 
 ## Problems & Approaches
 
----
-
 ### Server Power Optimisation
 
 **Approach**
